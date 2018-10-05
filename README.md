@@ -1,2 +1,3 @@
 # hello-world
-The Hello World Project Repository
+
+This is my first repository on Github.
